@@ -8,4 +8,15 @@ Grocery list
 bread
 butter
 jam
+supplies
+main
+
+Supplies
+pencil
+tape
+glue
+
+Shoes
+runners
+sneakers
 main
