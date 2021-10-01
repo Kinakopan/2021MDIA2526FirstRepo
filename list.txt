@@ -1,4 +1,11 @@
+supplies
 Supplies
 pencil
 tape
 glue
+
+Grocery list
+bread
+butter
+jam
+main
