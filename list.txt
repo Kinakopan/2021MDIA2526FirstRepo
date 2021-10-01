@@ -1,8 +1,15 @@
+supplies
+Supplies
+pencil
+tape
+glue
+
 Grocery list
 bread
 butter
 jam
-
+supplies
+main
 
 Supplies
 pencil
@@ -12,3 +19,4 @@ glue
 Shoes
 runners
 sneakers
+main
